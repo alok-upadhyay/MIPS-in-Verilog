@@ -1,0 +1,15 @@
+module LeftShifter_2bit(inData,outData);
+  
+  input [31:0]inData;
+  output outData[31:0];
+  reg [31:0]outData;
+  
+  always@(inData)
+    begin
+      
+      outData=inData<<2;
+  
+    end
+    
+endmodule    
+
