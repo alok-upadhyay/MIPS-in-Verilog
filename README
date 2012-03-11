@@ -1,1 +1,7 @@
-This is a single cycle implementation of MIPS architecture in Verilog.
+This is a single cycle implementation of MIPS architecture in Verilog, we made for our Computer Organization and Architecture class.
+
+Tested on : ModelSIM, on Windows 7.
+
+Author(s) : Vibhor Bajpai, Alok Upadhyay
+
+
